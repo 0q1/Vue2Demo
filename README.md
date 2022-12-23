@@ -1,19 +1,20 @@
 # vue2demo
+## 项目启动配置
 
-## Project setup
+## 下载npm包
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 调试
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 打包
 ```
 npm run build
 ```
 
-### Customize configuration
+### 自定义配置
 See [Configuration Reference](https://cli.vuejs.org/config/).
