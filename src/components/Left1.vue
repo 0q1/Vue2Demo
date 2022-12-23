@@ -24,6 +24,7 @@ export default{
             //指令第一次创建时调用
             bind(el,binding){
                 el.style.color='red'
+                console.log("v-color")
             },
             update(el,binding){
                 el.value = binding.value
